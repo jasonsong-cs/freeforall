@@ -1,6 +1,6 @@
 # Free For All Simulation Project
 
-## A simulator to run a mock free for all match
+## A consoled based simulator to run a mock free for all match
 
 Based on the given statistics of the player, the winning percentage is determined. <br />
 Higher the statistics, the higher the percentage of winning, but it does not guarantee it. <br />
